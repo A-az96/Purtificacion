@@ -1,0 +1,19 @@
+
+body{ font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    background-color: #94dbd5;
+    color:aliceblue}
+    h1{  
+        width: 150;
+        text-size-adjust: 120;
+        font-style:normal;
+    color:aliceblue; }
+     header div {display: flex;
+        background-color: #13BDAE; border-radius: 5px;
+        font-size: 15px;
+padding: 5px;
+text-align:center
+}
+
+menu{ background-color: black; color:aliceblue;
+    text-align:right; font-size: 5px;
+}
